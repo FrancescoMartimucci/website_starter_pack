@@ -1,0 +1,14 @@
+@import './component/variables.scss';
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.bg-really-dark {
+    background-color: $really-dark;
+}
+
+// You can write all the css code in this file
+// Delete this comment as well ;)
