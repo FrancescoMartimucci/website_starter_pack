@@ -109,20 +109,3 @@ Buona programmazione!
 </p>
 
 </div>
-
-<style>
-    @import url('https://fonts.googleapis.com/css2?family=Exo+2:wght@400;700;900&display=swap');
-
-    #page {
-        background-color: #f5f5f5;
-        padding: 20px
-    }
-
-    h1, h2, h3, h4, p, a, ul, li, ol {
-        font-family: 'Exo 2', sans-serif !important;
-    }
-
-    code {
-        background-color: #cbbeb5 !important;
-    }
-</style>
