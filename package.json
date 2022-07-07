@@ -1,6 +1,6 @@
 {
   "name": "website_starter",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Ready-to-use starter pack to build a website with Webpack and Bootstrap",
   "keywords": [
     "website_starter"

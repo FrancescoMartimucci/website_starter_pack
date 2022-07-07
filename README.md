@@ -97,15 +97,5 @@ Good code :)
 Sei pronto/a a creare il tuo sito fantastico! <br>
 Buon divertimento :)
 </p>
-<h3>
-Breve storia
-</h3>
-<p>
-Quando ho inziato a programmare non avevo capito l'utilità di Webpack e lo trovavo molto difficile da usare. Probabilmente non avevo ancora un buon livello di competenze tale da poterci mettere mano con agilità. Oggi ci ho riprovato ed ho pensato di creare qualcosa che potesse sia velocizzarmi durante il processo iniziale di sviluppo di semplici pagine web, sia aiutare chi ha meno dimistichezza a creare una pagina web, sfruttando la comodità di Webpack.
-<br><br>
-Se hai qualche consiglio o miglioria, sono felice di applicarla, per rendere il progetto più completo. Sentiti libero di invarmi un collegamento su <a href="https://www.linkedin.com/in/francescomartimucci/" target="_blank">LinkedIn</a>.
-<br><br>
-Buona programmazione!
-</p>
 
 </div>
